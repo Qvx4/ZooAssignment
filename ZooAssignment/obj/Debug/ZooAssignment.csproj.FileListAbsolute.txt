@@ -1,0 +1,11 @@
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\bin\Debug\ZooAssignment.exe.config
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\bin\Debug\ZooAssignment.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\bin\Debug\ZooAssignment.pdb
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.csproj.AssemblyReference.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.csproj.CopyComplete
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\ZooAssignment\ZooAssignment\obj\Debug\ZooAssignment.pdb
